@@ -1,0 +1,51 @@
+GIMNASIO "FUERZA TOTAL" - RUTINAS PREDEFINIDAS
+
+=== RUTINA PRINCIPIANTE ===
+1. Calentamiento: caminar en caminadora (10 minutos)
+2. Estiramiento de brazos (5 minutos)
+3. Sentadillas sin peso (3 series de 15 repeticiones)
+4. Lagartijas modificadas (3 series de 10 repeticiones)
+5. Abdominales básicos (3 series de 20 repeticiones)
+6. Descanso (2 minutos entre ejercicios)
+7. Estiramiento final (10 minutos)
+8. Registro de progreso en bitácora
+
+=== RUTINA INTERMEDIO ===
+1. Calentamiento: trotar en caminadora (15 minutos)
+2. Estiramiento dinámico (8 minutos)
+3. Sentadillas con mancuernas (4 series de 12 repeticiones)
+4. Press de pecho con barra (4 series de 10 repeticiones)
+5. Peso muerto (4 series de 8 repeticiones)
+6. Lagartijas regulares (3 series de 15 repeticiones)
+7. Abdominales con peso (4 series de 15 repeticiones)
+8. Descanso (90 segundos entre ejercicios)
+9. Cardio final: bicicleta (20 minutos)
+10. Estiramiento completo (15 minutos)
+11. Registro detallado en app
+
+=== RUTINA AVANZADO ===
+1. Calentamiento: correr en caminadora (20 minutos)
+2. Movilidad articular completa (10 minutos)
+3. Sentadillas con barra olímpica (5 series de 8 repeticiones)
+4. Press de pecho inclinado (5 series de 6 repeticiones)
+5. Peso muerto rumano (5 series de 6 repeticiones)
+6. Dominadas (4 series hasta fallo)
+7. Fondos en paralelas (4 series de 12 repeticiones)
+8. Abdominales con disco (5 series de 12 repeticiones)
+9. Descanso (60 segundos entre ejercicios)
+10. Cardio intenso: intervalos (25 minutos)
+11. Estiramiento profundo (20 minutos)
+12. Registro completo con mediciones
+
+
+
+"El gimnasio quiere:
+
+Rutinas híbridas: 'Calentamiento de avanzado + ejercicios de principiante'
+Orden personalizable: Algunos prefieren cardio al inicio, otros al final
+Pasos condicionales: 'Si hay lesión en rodilla, saltar sentadillas'
+Nuevos tipos de pasos: 'Pasos de evaluación', 'Pasos de recuperación', 'Pasos de competencia'
+Rutinas adaptativas: Que cambien según el progreso del usuario
+Micro-rutinas: Combinar partes de diferentes rutinas según el tiempo disponible
+
+¿Cómo permitir que los entrenadores creen nuevos tipos de pasos, los reordenen dinámicamente, y construyan rutinas completamente personalizadas mezclando elementos de cualquier rutina existente?"
